@@ -1,8 +1,3 @@
----
-title: HTTP Requests
-description: If you'd like to send data to an app that doesn't have a built-in connector, use the generic HTTP connector
----
-
 Connectors are the building blocks of your Workflow and allow you to connect to third-party apps and services.
 If you want to send data to an app that doesn't have a built-in connector, you can use the generic [HTTP Connector](./connectors/http.md) to make HTTP requests to that app's API.
 

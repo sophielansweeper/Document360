@@ -1,8 +1,3 @@
----
-title: Building Workflows
-description: Build new Workflows using Lansweeper's Flow Builder
----
-
 Lansweeper's Flow Builder lets you build Workflows that connect Lansweeper Platform to the other apps and services you use.
 This article describes how to build Workflows.
 
