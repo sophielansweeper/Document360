@@ -1,8 +1,3 @@
----
-title: Looping
-description: The loop step allows you to iterate over an array of items or records
----
-
 For many Workflows it's handy to be able to loop over an array of items, or to loop a certain number of times.
 If your Workflow processes files on an SFTP server, for example, you might want to loop over an array of files on the server.
 If your Workflow sends alerts to users, you might want to loop over an array of users.

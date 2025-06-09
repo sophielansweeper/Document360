@@ -1,9 +1,3 @@
----
-title: "Lansweeper's Flow Builder"
-description: Build new Workflows using Lansweeper's Flow Builder
-slug: /
----
-
 **Lansweeper's Flow Builder** is a low-code Workflow tool your team can use to build Workflows that sync data between Lansweeper Platform and the other apps and services you use.
 
 Your Workflows use built-in connectors to connect to third-party apps.

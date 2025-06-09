@@ -1,8 +1,3 @@
----
-title: Triggering Workflows
-description: Learn about the different types of triggers available in the Flow Builder and how to configure them for your Workflows.
----
-
 Triggers allow you to define when a Workflow should run. In the Flow Builder, you can set up various types of triggers to initiate your workflows based on different events or conditions.
 
 If you would like your Workflow to run on a consistent schedule, you can use a [schedule trigger](#schedule-triggers).

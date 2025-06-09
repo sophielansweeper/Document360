@@ -1,8 +1,3 @@
----
-title: Testing Workflows
-description: Test your Workflow within the Flow Builder
----
-
 As you build your Workflow you can test it to ensure that it works as expected.
 This article describes how to test your Workflow within the Flow Builder.
 

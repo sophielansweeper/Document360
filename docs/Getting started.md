@@ -1,8 +1,3 @@
----
-title: Getting Started
-description: Start building your own Workflows
----
-
 ## Overview
 
 This tutorial will walk you through some basic concepts of Workflow development using the Lansweeper's Flow Builder.

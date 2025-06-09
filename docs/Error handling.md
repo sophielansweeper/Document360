@@ -1,8 +1,3 @@
----
-title: Error Handling
-description: Errors happen. Here's how you can handle errors gracefully.
----
-
 Errors happen.
 An API you pull data from may encounter a temporary outage, or the "eventually" part of an "eventually consistent" database may need a couple more seconds to save a record.
 When you encounter errors, you have two tools to handle them:

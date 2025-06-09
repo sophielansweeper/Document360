@@ -1,8 +1,3 @@
----
-title: Enabling Workflows
-description: After testing your Workflow you can enable it
----
-
 Your Workflow has two copies: the draft copy that you build and test in the Flow Builder, and the production copy that runs when your Workflow is enabled.
 
 At any point as you [test](./testing.md) your Workflow you can save a draft copy of your Workflow by clicking the **Save draft** button.

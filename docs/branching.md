@@ -1,9 +1,3 @@
-<!--  ---
-// title: Branching
-description: You can create logical branches within your Workflow based on conditional logic
----
--->
-
 The [branch](./connectors/branch.md) tool allows you to add branching logic to your Workflow.
 Think of **branches** as logical paths that your Workflow can take.
 Given some information about a previous steps' results, your Workflow can follow one of many paths.

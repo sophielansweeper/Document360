@@ -1,8 +1,3 @@
----
-title: Custom Code
-description: Write custom JavaScript code snippets to be used in your Workflows
----
-
 The [code](./connectors/code.md) step allows you to write short custom JavaScript functions within your Workflow.
 This is helpful if you have some coding experience and would like to manipulate data with code.
 
@@ -46,7 +41,7 @@ You can reference any of these context properties using JavaScript dot notation:
 ```javascript
 module.exports = async (context, stepResults) => {
   context.logger.info(
-    `This step is part of the ${context.instance.name} Workflow. ${context.executionId} started at ${context.startedAt}.`,
+    `This step is part of the ${context.instance.name} Workflow. ${context.executionId} started at ${context.startedAt}.`
   );
   return { data: null };
 };
@@ -57,7 +52,7 @@ To make code more readable, you can [destructure](https://developer.mozilla.org/
 ```javascript
 module.exports = async ({ instance, executionId, startedAt }, stepResults) => {
   context.logger.info(
-    `This step is part of the ${instance.name} Workflow. ${executionId} started at ${startedAt}.`,
+    `This step is part of the ${instance.name} Workflow. ${executionId} started at ${startedAt}.`
   );
   return { data: null };
 };
@@ -170,7 +165,7 @@ module.exports = async (context, stepResults) => {
     { cpp: "12" },
     { cpp: "23" },
     { java: "23" },
-    { python: "35" },
+    { python: "35" }
   );
   return { data: mergedData };
 };

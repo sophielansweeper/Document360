@@ -1,8 +1,3 @@
----
-title: OAuth 2.0 Connections
-description: Connect to an app that uses OAuth 2.0
----
-
 ## What is OAuth 2.0?
 
 [OAuth 2.0](https://oauth.net/2/) is a special type of connection that allows you to grant Lansweeper access to your data in third-party apps.
